@@ -1,8 +1,9 @@
 # Prática NODE
 
+Observação: Este repositório será alimentado com o tempo, por não ser a principal skill do programador.
+
 # Objetivo
 - Colocar em prática conhecimentos de javascript em projeto NODE.js.
-- Observação: Este repositório será alimentado com o tempo.
 
 # Tecnologias Usadas
 - NODE v14.15.0
